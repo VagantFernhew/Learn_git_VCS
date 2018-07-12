@@ -1,5 +1,5 @@
 /**
-*  @author Sher Azam
+*  @author Fernhew
 *  @date 12 Jul, 2018
 *
 *  @brief function prototypes to manipulate a link-list
